@@ -1,0 +1,28 @@
+# VSCode
+.vscode/*
+# IDEA IntelliJ
+## User-specific stuff
+.idea/*
+# Eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+###
+
+*
+
+!*.html
+!.gitattributes
+!.gitignore
